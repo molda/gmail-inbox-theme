@@ -1,0 +1,108 @@
+/*
+  Copyright © 2018 Andrew Powell
+
+  This Source Code Form is subject to the terms of the Mozilla Public
+  License, v. 2.0. If a copy of the MPL was not distributed with this
+  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+  The above copyright notice and this permission notice shall be
+  included in all copies or substantial portions of this Source Code Form.
+*/
+
+/* ## Generics */
+
+.aAT,
+.aAU,
+.UI,
+.aj9,
+.aeJ,
+.aib,
+.aCl,
+.aKk,
+.brC-aT5-aOt-bsf-Jw,
+.brC-aT5-aOt-Jw,
+.brC-dA-I-Jw,
+.aAA.J-KU-Jg-K9 {
+    background-color: #f2f2f2 !important;
+}
+
+.bkK {
+    background-color: #f2f2f2;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.G-atb {
+    background-color: #f2f2f2;
+    padding: 8px 16px 8px 16px;
+}
+
+.aKh {
+    height: 70px;
+}
+
+.bkL .no div.nH.nn:nth-child(3) {
+    width: 0 !important;
+}
+
+.qp {
+    background-color: #4285f4 !important;
+}
+
+header.gb_ja {
+    box-shadow: 0 0 4px rgba(0, 0, 0, .14), 0 4px 8px rgba(0, 0, 0, .28);
+}
+
+.gb_ja svg,
+.gb_4b svg {
+    color: white !important;
+    opacity: 1 !important;
+}
+
+.gb_ja .gb_Ee svg,
+.gb_ja .gb_Ee svg,
+.gb_ja .gb_Ee svg {
+    color: grey !important;
+}
+
+.x7 {
+    background: #eee;
+}
+
+.zA {
+    padding-bottom: 16px;
+    padding-top: 16px;
+    -webkit-box-shadow: inset 0px 0px 0 1px rgba(100, 121, 143, 0.15);
+    box-shadow: inset 0px 0px 0 1px rgba(100, 121, 143, 0.15);
+    margin-top: 5px;
+}
+
+.yO {
+    background: white !important;
+}
+
+.gb_De:not(.gb_Ee) {
+    background: rgba(255, 255, 255, 0.2) !important;
+}
+
+input.gb_Ze::placeholder {
+    color: grey;
+}
+
+.wT>.n3 .byl:first-child .aim:first-child .nZ {
+    background-color: #e8eaed !important;
+}
+
+.aRs {
+    background-color: #f2f2f2 !important;
+}
+
+.aim,
+.ain {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+img.gb_ma {
+    content: url("https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png");
+}
